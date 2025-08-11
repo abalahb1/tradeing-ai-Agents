@@ -17,7 +17,7 @@
 ---
 
 ## ✨ Features
- <img src="Menu.png" alt="Trading Bot Menu" width="100"/>
+ <img src="Menu.png" alt="Trading Bot Menu" width="500"/>
 This bot provides a comprehensive suite of tools for traders and market analysts:
 
 -   **🤖 Smart Money Concepts (SMC) Analysis**: Get AI-powered technical analysis and trade recommendations (Entry, SL, TP) for any financial asset.
