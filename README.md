@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Menu.png" alt="Trading Bot Menu" width="100"/>
+ 
   <h1>Telegram Trading Analysis Bot</h1>
   <p>
     A sophisticated, feature-rich Telegram bot for financial market analysis, built with Python and Aiogram.
@@ -17,7 +17,7 @@
 ---
 
 ## ✨ Features
-
+ <img src="Menu.png" alt="Trading Bot Menu" width="100"/>
 This bot provides a comprehensive suite of tools for traders and market analysts:
 
 -   **🤖 Smart Money Concepts (SMC) Analysis**: Get AI-powered technical analysis and trade recommendations (Entry, SL, TP) for any financial asset.
