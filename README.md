@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/bullish.png" alt="Trading Bot Logo" width="100"/>
+  <img src="Menu.png" alt="Trading Bot Menu" width="100"/>
   <h1>Telegram Trading Analysis Bot</h1>
   <p>
     A sophisticated, feature-rich Telegram bot for financial market analysis, built with Python and Aiogram.
