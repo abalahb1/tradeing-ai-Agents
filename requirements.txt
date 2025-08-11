@@ -1,0 +1,12 @@
+aiogram>=3.0.0
+apscheduler
+sqlalchemy[aiosqlite]
+cachetools
+aiohttp
+beautifulsoup4
+lxml
+pytz
+pandas
+google-auth
+google-auth-oauthlib
+python-dotenv
