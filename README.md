@@ -43,8 +43,8 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd trading-bot # Or your project directory name
+    git clone https://github.com/abalahb1/tradeing-ai-Agents.git
+    cd tradeing-ai-Agents # Or your project directory name
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -104,7 +104,7 @@ All bot configurations are managed through an environment file.
     NEWS_API_KEY="YOUR_NEWSAPI_KEY"
 
     # Real-time price API URL
-    PRICE_API_URL="https://abalahb.cfd/forex"
+    PRICE_API_URL="https://api.cfd/forex"
     ```
 
 ## ▶️ Usage
@@ -151,7 +151,7 @@ The project is organized into a modular `app` structure for maintainability and 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repo/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/abalahb1/tradeing-ai-Agents/issues).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
